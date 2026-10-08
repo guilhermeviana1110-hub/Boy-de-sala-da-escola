@@ -31,5 +31,5 @@ async def sala(ctx):
   embed.add_field(name="🔑 SENHA", value=sala_atual["senha"], inline=False)
   await ctx.send(embed=embed)
 
-bot.run(MTU1Nzc3NjI0MTg3NTA5OTY4OA.GJfLka.m6Y6kTk533OosOt9Hl1wsVXoD8GE-trRZs8O3U)
+bot.run(MTU1Nzc3NjI0MTg3NTA5OTY4OA.GGk7ch.7npAzTejW9kk-SJO8B_BQriOugaRlgBlScB-Mw)
 
